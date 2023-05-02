@@ -1,0 +1,15 @@
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\bin\Debug\net7.0\mis-221-pa-5-amgrelier.exe
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\bin\Debug\net7.0\mis-221-pa-5-amgrelier.deps.json
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\bin\Debug\net7.0\mis-221-pa-5-amgrelier.runtimeconfig.json
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\bin\Debug\net7.0\mis-221-pa-5-amgrelier.dll
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\bin\Debug\net7.0\mis-221-pa-5-amgrelier.pdb
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.dll
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\refint\mis-221-pa-5-amgrelier.dll
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.pdb
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\mis-221-pa-5-amgrelier.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Desktop\MIS 221\mis-221-pa-5-amgrelier\obj\Debug\net7.0\ref\mis-221-pa-5-amgrelier.dll
